@@ -13,4 +13,5 @@ echo
 echo
 echo "当前版本: 0.1.2
 echo "本项目持续更新中"
+echo "github: https://github.com/air459/Air-Tool"
 echo "下载链接: https://pan1.yukaidi.com/s/JyXvCz"
